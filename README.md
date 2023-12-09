@@ -2,7 +2,7 @@
 
 # 📝About Me
 
-<h3 align="center">🚀 Dedicated MERN stack developer creating dynamic, user-centric experiences with a focus on React.js. I excel in translating complex ideas into intuitive interfaces using clean, maintainable code. With a results-driven approach to front-end development, my goal is to exceed user expectations in every project.</h3> 
+<h3 align="center">🚀 Dedicated MERN stack developer creating dynamic, user-centric experiences with a focus on React.js. I excel in translating complex ideas into intuitive interfaces using clean, maintainable code. With a results-driven approach to front-end development, my goal is to exceed user expectations in every project.</h3>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
@@ -99,9 +99,6 @@ Express Js, Node Js, MongoDB, Crud Operation, & Firebase
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiponirfan&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiponirfan&theme=radical)
-
-
-
 
 
 
