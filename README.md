@@ -97,8 +97,11 @@ Express Js, Node Js, MongoDB, Crud Operation, & Firebase
 
 <br>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiponirfan&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiponirfan&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiponirfan&theme=radical)
+
+
+
+
 
 
