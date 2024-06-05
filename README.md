@@ -1,8 +1,8 @@
-![Banner](https://raw.githubusercontent.com/shiponirfan/shiponirfan/main/Banner.png)
+![Banner](https://raw.githubusercontent.com/shiponirfan/shiponirfan/main/Banner.jpg)
 
 # 📝About Me
 
-<h3 align="center">🚀 Dedicated MERN stack developer creating dynamic, user-centric experiences with a focus on React.js. I excel in translating complex ideas into intuitive interfaces using clean, maintainable code. With a results-driven approach to front-end development, my goal is to exceed user expectations in every project.</h3>
+<h3 align="center">I’m a Flutter App Developer, and I specialize in building mobile applications that are not only functional but also user-friendly. Whether you need an app for Android or iOS, I can create a solution that meets your needs and solves your problems.</h3>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
